@@ -10,17 +10,7 @@
 
 ---
 
-# 🚀 About Trigya
 
-**Trigya** is a technology-driven company focused on building modern software,
-AI-powered systems, intelligent automation, and digital solutions for businesses.
-
-We combine software engineering, artificial intelligence, automation,
-and cloud technologies to create solutions that solve real-world problems.
-
-Our focus is simple:
-
-> **Build technology that makes businesses smarter, faster, and more efficient.**
 
 ---
 
