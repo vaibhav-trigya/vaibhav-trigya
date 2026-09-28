@@ -8,12 +8,6 @@ AI • Automation • Software Engineering • Digital Solutions
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-Visit%20Us-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://trigya.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Us-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-trigya)
-
-</div>
-
 ---
 
 # 🚀 About Trigya
