@@ -1,10 +1,10 @@
 <div align="center">
 
-# TRIGYA
+# 👋 Hi, I'm ✨ Vaibhav Saini ✨
 
-### Building Intelligent Software for the Modern Business
+### 🤖 AI/ML Developer | 💻 Full-Stack Developer | 🚀 Technology Enthusiast
 
-AI • Automation • Software Engineering • Digital Solutions
+</div>
 
 <br/>
 
